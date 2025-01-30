@@ -22,10 +22,9 @@ Make sure to have a copy of all shreds placed in `./shreds` directory (at the ro
 
 ## Notebooks
 
-Gluing back the shreds will be done in 3 steps, and we'll have one notebook for each of step.
+Gluing back the shreds will be done in 3 steps. We have one notebook for each of of the 3 steps.
 
-1. **merging shred pairs:** using an ad-hoc distance to calculate the similarity between two shreds, and then merging
-   them.
+1. **merging shred pairs:** using an ad-hoc distance to estimatate the similarity between every two shreds, and then merging the matched pairs.
     - Notebook: [01_merging_shred_pairs.ipynb](./01_merging_shred_pairs.ipynb)
 2. *converting each column (shred pair) into a column of letters:* using an OCR library to identify all letters within
    merged shred pairs (aka columns).
