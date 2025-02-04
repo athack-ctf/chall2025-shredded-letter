@@ -17,7 +17,7 @@ This challenge summons multiple programming and computer science skills, includi
 computer vision, data analysis, string heuristics, etc.
 
 Another aspect of this challenge that makes it interesting is that it doesn't have a unique solution, and all of it will
-depend on the background and the creativity all the participants.
+depend on the background and the creativity of the participant.
 
 ## Category
 
