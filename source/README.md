@@ -3,7 +3,7 @@
 What you need to know:
 
 - The challenge revolves around a letter written by Dr. Dexter to Roger that contains the flag.
-- The script `shredder.py` contains the code for generating shreds from a text files.
+- The script `shredder.py` contains the code for generating shreds from a text file.
 - To help participants develop an un-shredding process, we also generate another shredded letter form Dr. Dexter that
   has the same textual properties. The shreds for this letter are not shuffled, and the corresponding text file is also
   provided.
