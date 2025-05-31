@@ -1,6 +1,6 @@
 # Solution
 
-**NOTE:** There is no single way of solving this challenge. However, I am providing one working solution demonstrating
+**NOTE:** There is likely more than one way of solving this challenge. However, I am providing one working solution demonstrating
 that it is solvable indeed.
 
 ## Dependencies
@@ -22,7 +22,7 @@ Make sure to have a copy of all shreds placed in `./shreds` directory (at the ro
 
 ## Notebooks
 
-Gluing back the shreds will be done in 3 steps. We have one notebook for each of of the 3 steps.
+Gluing back the shreds will be done in 3 steps:
 
 1. **merging shred pairs:** using an ad-hoc distance to estimatate the similarity between every two shreds, and then merging the matched pairs.
     - Notebook: [01_merging_shred_pairs.ipynb](./01_merging_shred_pairs.ipynb)
